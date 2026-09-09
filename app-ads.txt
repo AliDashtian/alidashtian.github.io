@@ -1055,3 +1055,50 @@ bidline.net, 4d8b12af, RESELLER
 loopme.com, 20970, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 20968, RESELLER, 6c8d5f95897a5a3b
 indexexchange.com, 216513, RESELLER, 50b1c356f2c5c8fc
+media.net, 8CAXEGFDP, RESELLER
+vidoomy.com, 8953515, RESELLER
+openx.com, 565175463, RESELLER, 6a698e2ec38604c6
+sharethrough.com, SniqCOMC, RESELLER, d53b998a7bd4ecd2
+themediagrid.com, JVHG38, RESELLER, 9fac4a4a87c2a44f
+xandr.com, 7353, RESELLER
+video.unrulymedia.com, 947824792, RESELLER
+sharethrough.com, 4568, RESELLER, d53b998a7bd4ecd2
+loopme.com, 2896, RESELLER, 6c8d5f95897a5a3b
+bid-matrix.com, f2c71a45ea149366, RESELLER
+e-planning.net, 79ded3cfca3d3b78, RESELLER, c1ba615865ed87b2
+media.net, 8CUSC3UJ7, RESELLER
+netmarvel.com, 1011828, RESELLER, ca3509163a633862
+triplelift.com, 14705, RESELLER, 6c33edb13117fd86
+triplelift.com, 14705-EB, RESELLER
+pubmatic.com, 166385, RESELLER, 5d62403b186f2ace
+spinx.biz, 1373698903, RESELLER, 9f2711e9aaa9f992
+zetaglobal.net, 525, RESELLER
+videoheroes.tv, 212499, RESELLER, 064bc410192443d8
+triplelift.com, 14709, RESELLER, 6c33edb13117fd86
+vidazoo.com, 6a3384a48eca8f6ddad62520, RESELLER, b6ada874b4d7d0b2
+pubmatic.com, 168244, RESELLER, 5d62403b186f2ace
+media.net, 8CUUQ286L, RESELLER
+lijit.com, 606973, RESELLER, fafdf38b16bf6b2b
+dauup.com, 34222, RESELLER, 4daba13e2b0dfd9
+copper6.com, 766114, RESELLER
+rubiconproject.com, 24752, RESELLER, 0bfd66d529a55807
+bold-win.com, 1189, RESELLER, 71746737d0bab951
+connekt.ai, 5585919044, RESELLER
+rubiconproject.com, 28341, RESELLER, 0bfd66d529a55807
+verve.com, 1008379, RESELLER, 0c8f5958fc2d6270
+playwire.com, 1018531, RESELLER
+nativo.com, 6089, RESELLER, 59521ca7cc5e9fee
+smartclip.net, 14679, RESELLER
+smaato.com, 1100058938, RESELLER, 07bcf65f187117b4
+nativo.com, 5958, RESELLER, 59521ca7cc5e9fee
+pubmatic.com, 95054, RESELLER, 5d62403b186f2ace
+pubmatic.com, 165750, RESELLER, 5d62403b186f2ace
+video.unrulymedia.com, 201313863, RESELLER
+taurusx.com, 70097, RESELLER
+bigo.sg, adidz3dyfp, RESELLER
+media.net, 8CU9B72O6, RESELLER
+loopme.com, 20775, RESELLER, 6c8d5f95897a5a3b
+smartclip.net, 15458, RESELLER
+brightmountainmedia.com, 2686958, RESELLER
+stroeer.com, 17379, RESELLER
+triplelift.com, 6998, RESELLER, 6c33edb13117fd86
