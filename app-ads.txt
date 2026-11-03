@@ -1102,3 +1102,4 @@ smartclip.net, 15458, RESELLER
 brightmountainmedia.com, 2686958, RESELLER
 stroeer.com, 17379, RESELLER
 triplelift.com, 6998, RESELLER, 6c33edb13117fd86
+facebook.com, 1953091358909636, DIRECT, c3e20eee3f780d68
